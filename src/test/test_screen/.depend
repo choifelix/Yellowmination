@@ -1,0 +1,4 @@
+screen.o: screen.cpp screen.h
+animation.o: animation.cpp animation.h
+personnage.o: personnage.cpp personnage.h obstacle.h screen.h animation.h
+main.o: main.cpp screen.h personnage.h obstacle.h animation.h
