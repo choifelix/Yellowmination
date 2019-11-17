@@ -1,5 +1,5 @@
 # Yellownimation
-par Félix Choi et Antoine Somsay, fait le 25/01/2019 dans le cadre d'un projet académique en Programmation Orientée Objet en C++.
+par Félix Choi et Antoine Somsay, fait le 25/01/2019 dans le cadre d'un projet académique en Programmation Orientée Objet en C++. Original work on gitlab : https://gitlab.com/felixchoi/yellownimation
 
 Les images et sons utilisés dans ce projet ne proviennent pas des auteurs. Aucuns crédits ne leurs sont attribués.
 
